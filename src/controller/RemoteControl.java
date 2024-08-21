@@ -3,7 +3,7 @@ package controller;
 import commands.LightOffCommand;
 import commands.LightOnCommand;
 import model.KitchenRoomLight;
-import commands.Command;
+
 public class RemoteControl {
     private int slots;
 
